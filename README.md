@@ -21,10 +21,15 @@ After the executable is created, run it with:
 Replace <data_structure_number> with a number from 1 to 5 to select the data structure:
 
 1: Unsorted Array
+
 2: Sorted Array
+
 3: Binary Tree
+
 4: AVL Tree
+
 5: Hashtable
+
 Replace <filename> with the name of the text file to be processed.
 
 For example, to run the program using the Binary Tree on small-file.txt:
