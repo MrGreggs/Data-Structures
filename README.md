@@ -37,5 +37,5 @@ For example, to run the program using the Binary Tree on small-file.txt:
 
 The preprocessing command should be commented out after the text file has been processed once to reduce execution time. The variable numPairs defines the number of pairs to be created from the given text file.
 
-# Ouput
+# Output
 The output consists of the time taken to create the data structure by reading the text file string by string and storing the pairs appropriately. Next, it searches numPairs pairs in the data structure and prints out the search time.
