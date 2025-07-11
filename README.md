@@ -1,4 +1,4 @@
-# Data-Structures
+# Data Structures
 This project is a collection of fundamental data structures implemented from scratch in C++. The program preprocesses a text file by "cleaning" the words—converting all words to lowercase and removing any non-alphanumeric characters. It then creates pairs of words and stores them in the selected data structure.
 
 This serves as a learning exercise to understand and create the underlying mechanisms of data structures. The project was part of a Data Structures course.
